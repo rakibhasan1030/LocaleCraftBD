@@ -15,4 +15,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "LocaleCraftBD"
 include(":app")
-include(":local-craft-bd")
+include(":locale-craft-bd")

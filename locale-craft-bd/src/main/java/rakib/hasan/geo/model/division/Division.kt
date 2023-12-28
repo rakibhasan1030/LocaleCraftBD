@@ -1,4 +1,4 @@
-package rakib.hasan.local_craft_bd.model.division
+package rakib.hasan.geo.model.division
 
 
 import com.google.gson.annotations.SerializedName

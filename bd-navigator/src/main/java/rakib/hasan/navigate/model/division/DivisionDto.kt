@@ -1,4 +1,4 @@
-package rakib.hasan.geo.model.division
+package rakib.hasan.navigate.model.division
 
 
 import com.google.gson.annotations.SerializedName

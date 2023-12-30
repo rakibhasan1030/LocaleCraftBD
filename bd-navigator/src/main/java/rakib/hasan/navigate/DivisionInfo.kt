@@ -1,11 +1,11 @@
-package rakib.hasan.geo
+package rakib.hasan.navigate
 
-import rakib.hasan.geo.Utils.districtPath
-import rakib.hasan.geo.model.division.DivisionDto
-import rakib.hasan.geo.Utils.divisionPath
-import rakib.hasan.geo.Utils.parseJson
-import rakib.hasan.geo.Utils.unionPath
-import rakib.hasan.geo.Utils.upazilaPath
+import rakib.hasan.navigate.Utils.districtPath
+import rakib.hasan.navigate.Utils.divisionPath
+import rakib.hasan.navigate.Utils.parseJson
+import rakib.hasan.navigate.Utils.unionPath
+import rakib.hasan.navigate.Utils.upazilaPath
+import rakib.hasan.navigate.model.division.DivisionDto
 
 class DivisionInfo {
     fun getDivisionsEn(): List<String> = parseJson<DivisionDto>(divisionPath).divisions.map { it.enName }

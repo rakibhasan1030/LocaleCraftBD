@@ -10,9 +10,10 @@ dependencyResolutionManagement {
     repositories {
         google()
         mavenCentral()
+        mavenLocal()
     }
 }
 
 rootProject.name = "LocaleCraftBD"
 include(":app")
-include(":locale-craft-bd")
+include(":bd-navigator")

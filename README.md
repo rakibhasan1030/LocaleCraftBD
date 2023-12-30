@@ -82,7 +82,7 @@ class MainActivity : ComponentActivity() {
 - [Rakib Hasan](https://www.github.com/rakibhasan1030)
 
 
-## 🌱 Contribution
+## 🌱 Contributions
 Contributions are always welcome!
 
 

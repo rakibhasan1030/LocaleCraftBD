@@ -12,7 +12,7 @@ repositories {
 ```
 
 #### Gradle Groovy DSL
-```
+```groovy
 dependencies {
   implementation 'io.github.rakibhasan1030:bd-navigator:1.0.1'
 }

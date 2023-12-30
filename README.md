@@ -1,4 +1,5 @@
-# Locale Craft BD [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/rakibhasan1030/LocaleCraftBD/blob/master/LICENSE) [![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.github.rakibhasan1030/bd-navigator/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.github.rakibhasan1030/bd-navigator/badge.svg)
+# Locale Craft BD [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/rakibhasan1030/LocaleCraftBD/blob/master/LICENSE) ![Maven Central](https://img.shields.io/maven-central/v/io.github.rakibhasan1030/bd-navigator)
+
 This initiative focuses on providing fundamental insights into Bangladesh, particularly covering details about its administrative structure in both English and Bengali languages. The aim is to present comprehensive information in a clear and accessible manner for a broad audience.
 
 

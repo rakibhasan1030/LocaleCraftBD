@@ -6,7 +6,7 @@ This initiative focuses on providing fundamental insights into Bangladesh, parti
 ## 🛠️ Installation
 
 LocaleCraftBD is installed by adding the following dependency to your `build.gradle` file:
-```
+```kotlin
 repositories {
   mavenCentral()
 }
@@ -27,7 +27,7 @@ dependencies {
 ```
 
 #### Apache Maven
-```
+```kotlin
 <dependency>
   <groupId>io.github.rakibhasan1030</groupId>
   <artifactId>bd-navigator</artifactId>
